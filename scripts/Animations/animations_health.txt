@@ -1,0 +1,165 @@
+event HudHealthBonusPulse
+{
+//============================ BOXES ANIMATION ============================
+	Animate PlayerStatusHealthValueShadow_Boxes 		FgColor 	"Black" 		Accel 	0.0 	0.0
+	
+	Animate	PlayerStatusHealthValueShadowExtra_Boxes	FgColor		"ELOhud"		Accel 	0.0 	0.075
+	Animate	PlayerStatusHealthValueShadowExtra_Boxes	FgColor		"ELOhud_120"	Accel 	0.125 	0.075
+    Animate	PlayerStatusHealthValueShadowExtra_Boxes	Alpha		"255"			Linear 0.0 0.2
+	
+	RunEvent HudHealthBonusPulseLoop					0.4
+	
+	Animate	Boxes_Over_Health							BgColor		"ELOhud"	Linear 0.0 0.0
+    Animate	Boxes_Over_Health							Alpha		"100"		Linear 0.0 0.2
+	Animate	Boxes_Over_Health							Alpha		"75"		Linear 0.2 0.4
+//============================ SHADOW ANIMATION ===========================
+	Animate	PlayerStatusHealthValueShadow_Shadow	FgColor		"ELOhud"		Accel 	0.0 	0.075
+	Animate	PlayerStatusHealthValueShadow_Shadow	FgColor		"ELOhud_120"	Accel 	0.125 	0.075
+
+	Animate	PlayerStatusHealthValueShadowExtra_Shadow	FgColor		"Black"		Accel 	0.0 	0.0
+    Animate	PlayerStatusHealthValueShadowExtra_Shadow	Alpha		"255"			Linear 0.0 0.2
+
+
+//========================== FULL-FONT ANIMATION ==========================
+	Animate	PlayerStatusHealthValue_FulLFont	FgColor		"ELOhud"		Accel 	0.0 	0.09
+
+//============================ CROSS ANIMATION ============================
+
+//????????????????
+
+//================================= MISC ==================================
+	Animate	HealthBoxBG		BgColor				"ELOhud_180" Accel 0.0 0.0
+	Animate	HealthBoxBG		Alpha				"200"		Accel 0.0 0.1
+	Animate	HealthBoxBG		Alpha				"100"		Accel 0.2 0.2
+	
+	Animate Health_Spectator_Bar_Buff			Alpha		"255"						Linear 	0.0 	0.0
+	Animate Health_Spectator_BG					BgColor 	"Health Buff" 				Linear 	0.0		0.0
+	
+	Animate	Health_Killer_BG					BgColor		"ELOhud_180" 				Accel 	0.0 	0.0
+}
+
+event HudHealthBonusPulseLoop
+{
+	RunEvent HudHealthBonusPulse					0.0
+}
+
+event HudHealthBonusPulseStop
+{
+//============================ BOXES ANIMATION ============================
+	StopEvent HudHealthBonusPulse 					0.0
+	StopEvent HudHealthBonusPulseLoop				0.0
+	
+	Animate PlayerStatusHealthValueShadow_Boxes 			FgColor 	"Black" 			Accel 	0.0 	0.0
+
+	Animate PlayerStatusHealthValueShadowExtra_Boxes 		Alpha 		"0"					Accel 	0.0 	0.0
+	
+	Animate	Boxes_Over_Health								BgColor		"Blank"		Linear 0.0 0.0
+    Animate	Boxes_Over_Health								Alpha		"0"			Linear 0.0 0.2
+
+//============================ SHADOW ANIMATION ===========================
+    Animate	PlayerStatusHealthValueShadowExtra_Shadow	Alpha		"0"			Linear 0.0 0.0
+	
+	Animate	PlayerStatusHealthValueShadow_Shadow	FgColor		"Black"		Accel 	0.0 	0.0
+
+//========================== FULL-FONT ANIMATION ==========================
+	Animate PlayerStatusHealthValue_FulLFont				 	FgColor 	"255 255 255 255"	 Accel 	0.0 	0.0
+
+//============================ CROSS ANIMATION ============================
+
+//????????????????
+
+//================================= MISC ==================================
+	Animate	HealthBoxBG		BgColor		"0 0 0 180"		Accel 0.0 0.0
+	Animate	HealthBoxBG		Alpha		"200"		Accel 0.2 0.2
+	
+	Animate Health_Spectator_Bar_Buff			Alpha		"0"									Linear 	0.0 	0.0
+	Animate Health_Spectator_BG					BgColor 	"TransparentLightBlack" 			Linear 	0.0		0.0
+	
+	Animate	Health_Killer_BG					BgColor		"0 0 0 180" 				Accel 	0.0 	0.0
+}
+
+//LOW HEALTH BOXES ANIMATION
+event HudHealthDyingPulse
+{
+//============================ BOXES ANIMATION ============================
+	Animate PlayerStatusHealthValueShadowExtra_Boxes 		FgColor 	"Black" 				Accel 	0.0 	0.0
+    Animate	PlayerStatusHealthValueShadowExtra_Boxes	Alpha		"255"					Linear 0.0 0.2
+	
+	Animate PlayerStatusHealthValueShadow_Boxes	FgColor 	"255 136 128 255" 		Accel 	0.0 	0.075
+	Animate PlayerStatusHealthValueShadow_Boxes	FgColor 	"255 0 0 255" 			Accel 	0.125 	0.075
+	
+	RunEvent HudHealthDyingPulseLoop					0.25
+
+	Animate	Boxes_Over_Health							BgColor		"255 45 38 255"		Linear 0.0 0.0
+    Animate	Boxes_Over_Health							Alpha		"130"				Linear 0.0 0.075
+	Animate	Boxes_Over_Health							Alpha		"60"				Linear 0.125 0.075
+
+//============================ SHADOW ANIMATION ===========================
+	Animate	PlayerStatusHealthValueShadowExtra_Shadow	FgColor		"Black"		Accel 	0.0 	0.0
+    Animate	PlayerStatusHealthValueShadowExtra_Shadow	Alpha		"255"			Linear 0.0 0.2
+	
+	Animate PlayerStatusHealthValueShadow_Shadow	FgColor 	"255 136 128 255" 		Accel 	0.0 	0.075
+	Animate PlayerStatusHealthValueShadow_Shadow	FgColor 	"255 0 0 255" 			Accel 	0.125 	0.075
+
+//========================== FULL-FONT ANIMATION ==========================
+	Animate PlayerStatusHealthValueShadow_FullFont FgColor "Black" linear 0.0 0.0
+
+	Animate	PlayerStatusHealthValue_FullFont	    FgColor		"255 50 140 255"	Linear 0.0 0.075
+	Animate	PlayerStatusHealthValue_FullFont 	    FgColor		"255 100 200 255"	Linear 0.125 0.075
+
+
+//============================ CROSS ANIMATION ============================
+
+//????????????????
+
+//================================= MISC ==================================
+	Animate	HealthBoxBG						BgColor		"199 44 72 180" 		Accel 0.0 0.0
+	Animate	HealthBoxBG						Alpha		"200"					Accel 0.0 0.1
+	Animate	HealthBoxBG						Alpha		"100"					Accel 0.2 0.2
+	
+	Animate Health_Spectator_Bar_Hurt		Alpha		"255"					Linear 	0.0 	0.0
+	Animate Health_Spectator_BG				BgColor 	"Red" 					Linear 	0.0		0.0
+	
+	Animate	Health_Killer_BG					BgColor		"199 44 72 180" 				Accel 	0.0 	0.0
+}
+
+event HudHealthDyingPulseLoop
+{
+	RunEvent HudHealthDyingPulse					0.0
+}
+
+event HudHealthDyingPulseStop
+{
+//============================ BOXES ANIMATION ============================
+	StopEvent HudHealthDyingPulse					0.0
+	StopEvent HudHealthDyingPulseLoop 				0.0
+	
+	Animate PlayerStatusHealthValueShadow_Boxes	 			FgColor 	"Black"			Accel 	0.0 	0.0
+	Animate PlayerStatusHealthValueShadowExtra_Boxes 		Alpha 		"0"				Accel 	0.0 	0.0
+
+	Animate	Boxes_Over_Health								BgColor		"Blank"		Linear 0.0 0.0
+    Animate	Boxes_Over_Health								Alpha		"0"			Linear 0.0 0.0
+
+//============================ SHADOW ANIMATION ===========================
+    Animate	PlayerStatusHealthValueShadowExtra_Shadow	Alpha		"0"			Linear 0.0 0.2
+	
+	Animate PlayerStatusHealthValueShadow_Shadow	FgColor 	"Black" 		Accel 	0.0 	0.0
+
+//========================== FULL-FONT ANIMATION ==========================
+	Animate PlayerStatusHealthValueShadow_FullFont FgColor "Black" linear 0.0 0.0
+	
+	Animate	PlayerStatusHealthValue_FullFont	   FgColor		"Health Numbers"	Linear 0.0 0.075
+
+//============================ CROSS ANIMATION ============================
+
+//????????????????
+
+//================================= MISC ==================================
+	Animate	HealthBoxBG		BgColor		"0 0 0 180"		Accel 0.0 0.0
+	Animate	HealthBoxBG		Alpha		"200"			Accel 0.2 0.2
+	
+	Animate Health_Spectator_Bar_Hurt			Alpha		"0"									Linear 	0.0 	0.0
+	Animate Health_Spectator_BG					BgColor 	"TransparentLightBlack" 			Linear 	0.0		0.0
+	
+	Animate	Health_Killer_BG					BgColor		"0 0 180" 				Accel 	0.0 	0.0
+}

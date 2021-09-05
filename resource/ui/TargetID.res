@@ -1,0 +1,1 @@
+#base 	"../../customizations/targetid_size.res"

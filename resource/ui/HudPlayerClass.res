@@ -1,0 +1,1 @@
+#base 	"../../customizations/player_model.res"

@@ -1,0 +1,13 @@
+//=========================================================================================
+// FAVOURITE SERVER ON MAIN MENU
+//=========================================================================================
+// To add a connect-string to your favourite servers on main menu, add following in your cfg.
+//=========================================================================================
+
+//CONNECT TO SERVER
+alias fav_server_1 "connect IP"
+alias fav_server_2 "connect IP"
+alias fav_server_3 "connect IP"
+alias fav_server_4 "connect IP"
+
+//=========================================================================================
