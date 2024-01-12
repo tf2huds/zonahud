@@ -691,7 +691,7 @@
 			"NumericInputOnly"					"1"
 			"bgcolor_override"					"5 5 5 255"
 			"fgcolor_override"					"White"
-			"maxchars"							"18"
+			"maxchars"							"20"
 
 			"consume_mode"
 			{
