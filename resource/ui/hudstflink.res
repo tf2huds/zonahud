@@ -8,8 +8,8 @@
 			"font"						"Size 14"
 			"labelText"					"v1.7"
 			"textAlignment"				"center"
-			"xpos"						"r90"
-			"ypos"						"r20"
+			"xpos"						"3"
+			"ypos"						"0"
 			"zpos"						"1"
 			"wide"						"32"
 			"tall"						"18"
@@ -19,6 +19,10 @@
 			"enabled"					"1"
 			"fgcolor_override"			"White"
 			"bgcolor_override"			"0 0 0 180"
+			
+			"pin_to_sibling" 			"HUDSLINK"
+			"pin_corner_to_sibling" 	"PIN_CENTER_RIGHT"
+			"pin_to_sibling_corner"		"PIN_CENTER_LEFT"
 		}			
 
 			
@@ -26,10 +30,10 @@
 	{
 		"ControlName"					"EditablePanel"
 		"fieldName"						"HUDSLINK"
-		"xpos"							"r56"
-		"ypos"							"r20"
+		"xpos"							"rs1-3"
+		"ypos"							"rs1-3"
 		"zpos"							"1"
-		"wide"							"54"
+		"wide"							"85"
 		"tall"							"18"
 		"visible"						"1"
 		
@@ -46,7 +50,7 @@
 			"tall"						"f0"
 
 			"font"						"Size 14"
-			"labelText"					"HUDS.TF"
+			"labelText"					"COMFIG HUDS"
 			"textAlignment"				"center"
 			"enabled"					"1"
 			"visible"					"1"
@@ -57,7 +61,7 @@
 			
 			"proportionaltoparent"		"1"
 						
-			"urlText"					"https://huds.tf/site/s-ZONAhud"
+			"urlText"					"https://comfig.app/huds/page/zonahud/"
 		}
 	}
 }	
