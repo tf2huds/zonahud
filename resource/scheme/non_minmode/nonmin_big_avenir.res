@@ -11,7 +11,7 @@ Scheme
 			"1"
 			{
 				"name"										"avenir-zona"
-				"tall"										"128"
+				"tall"										"44"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -21,7 +21,7 @@ Scheme
 			"1"
 			{
 				"name"										"avenir-zona"
-				"tall"										"88"
+				"tall"										"44"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -62,7 +62,7 @@ Scheme
 			"1"
 			{
 				"name"										"avenir-zona"
-				"tall"										"88"
+				"tall"										"44"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -72,7 +72,7 @@ Scheme
 			"1"
 			{
 				"name"										"avenir-zona"
-				"tall"										"88"
+				"tall"										"44"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -83,7 +83,7 @@ Scheme
 			"1"
 			{
 				"name"										"avenir-zona"
-				"tall"										"48"
+				"tall"										"24"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -93,7 +93,7 @@ Scheme
 			"1"
 			{
 				"name"										"avenir-zona"
-				"tall"										"48"
+				"tall"										"24"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -108,7 +108,7 @@ Scheme
 			"1"
 			{
 				"name"										"avenir-zona"
-				"tall"										"88"
+				"tall"										"44"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -123,7 +123,7 @@ Scheme
 			"1"
 			{
 				"name"										"avenir-zona"
-				"tall"										"40"
+				"tall"										"20"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -133,7 +133,7 @@ Scheme
 			"1"
 			{
 				"name"										"avenir-zona"
-				"tall"										"40"
+				"tall"										"20"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -148,7 +148,7 @@ Scheme
 			"1"
 			{
 				"name"										"avenir-zona"
-				"tall"										"48"
+				"tall"										"24"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -158,7 +158,7 @@ Scheme
 			"1"
 			{
 				"name"										"avenir-zona"
-				"tall"										"48"
+				"tall"										"24"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
