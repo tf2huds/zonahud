@@ -6,7 +6,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Hypnotize Symbols"
+				"name"			"hypnotize_symbols"
 				"tall"			"10"
 				"additive"  	"0"
 				"antialias"		"1"
@@ -17,7 +17,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Hypnotize Symbols"
+				"name"			"hypnotize_symbols"
 				"tall"			"12"
 				"additive"  	"0"
 				"antialias"		"1"
@@ -28,7 +28,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Hypnotize Symbols"
+				"name"			"hypnotize_symbols"
 				"tall"			"14"
 				"additive"  	"0"
 				"antialias"		"1"
@@ -39,7 +39,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Hypnotize Symbols"
+				"name"			"hypnotize_symbols"
 				"tall"			"16"
 				"additive"  	"0"
 				"antialias"		"1"
@@ -50,7 +50,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Hypnotize Symbols"
+				"name"			"hypnotize_symbols"
 				"tall"			"18"
 				"additive"  	"0"
 				"antialias"		"1"
@@ -61,7 +61,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Hypnotize Symbols"
+				"name"			"hypnotize_symbols"
 				"tall"			"20"
 				"additive"  	"0"
 				"antialias"		"1"
@@ -72,7 +72,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Hypnotize Symbols"
+				"name"			"hypnotize_symbols"
 				"tall"			"22"
 				"additive"  	"0"
 				"antialias"		"1"
@@ -83,7 +83,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Hypnotize Symbols"
+				"name"			"hypnotize_symbols"
 				"tall"			"24"
 				"additive"  	"0"
 				"antialias"		"1"
@@ -94,7 +94,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Hypnotize Symbols"
+				"name"			"hypnotize_symbols"
 				"tall"			"26"
 				"additive"  	"0"
 				"antialias"		"1"
@@ -105,7 +105,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Hypnotize Symbols"
+				"name"			"hypnotize_symbols"
 				"tall"			"28"
 				"additive"  	"0"
 				"antialias"		"1"
@@ -116,7 +116,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Hypnotize Symbols"
+				"name"			"hypnotize_symbols"
 				"tall"			"30"
 				"additive"  	"0"
 				"antialias"		"1"
@@ -127,7 +127,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Hypnotize Symbols"
+				"name"			"hypnotize_symbols"
 				"tall"			"34"
 				"additive"  	"0"
 				"antialias"		"1"
@@ -138,7 +138,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Hypnotize Symbols"
+				"name"			"hypnotize_symbols"
 				"tall"			"38"
 				"additive"  	"0"
 				"antialias"		"1"
@@ -149,7 +149,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Hypnotize Symbols"
+				"name"			"hypnotize_symbols"
 				"tall"			"40"
 				"additive"  	"0"
 				"antialias"		"1"
@@ -160,7 +160,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Hypnotize Symbols"
+				"name"			"hypnotize_symbols"
 				"tall"			"46"
 				"additive"  	"0"
 				"antialias"		"1"
@@ -171,7 +171,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Hypnotize Symbols"
+				"name"			"hypnotize_symbols"
 				"tall"			"48"
 				"additive"  	"0"
 				"antialias"		"1"
@@ -182,7 +182,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Hypnotize Symbols"
+				"name"			"hypnotize_symbols"
 				"tall"			"50"
 				"additive"  	"0"
 				"antialias"		"1"
@@ -193,7 +193,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Hypnotize Symbols"
+				"name"			"hypnotize_symbols"
 				"tall"			"54"
 				"additive"  	"0"
 				"antialias"		"1"
@@ -204,7 +204,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Hypnotize Symbols"
+				"name"			"hypnotize_symbols"
 				"tall"			"58"
 				"additive"  	"0"
 				"antialias"		"1"
@@ -215,7 +215,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Hypnotize Symbols"
+				"name"			"hypnotize_symbols"
 				"tall"			"60"
 				"additive"  	"0"
 				"antialias"		"1"
@@ -226,7 +226,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Hypnotize Symbols"
+				"name"			"hypnotize_symbols"
 				"tall"			"64"
 				"additive"  	"0"
 				"antialias"		"1"
@@ -237,7 +237,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Hypnotize Symbols"
+				"name"			"hypnotize_symbols"
 				"tall"			"68"
 				"additive"  	"0"
 				"antialias"		"1"
@@ -248,7 +248,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Hypnotize Symbols"
+				"name"			"hypnotize_symbols"
 				"tall"			"70"
 				"additive"  	"0"
 				"antialias"		"1"
@@ -259,7 +259,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Hypnotize Symbols"
+				"name"			"hypnotize_symbols"
 				"tall"			"72"
 				"additive"  	"0"
 				"antialias"		"1"
@@ -270,7 +270,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Blocks"
+				"name"			"blocks"
 				"tall"			"64"
 				"additive"		"0"
 				"antialias"		"0"
@@ -688,51 +688,51 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Blocks"
+				"name"			"blocks"
 				"tall"			"64"
 				"additive"		"0"
 				"antialias"		"0"
 			}
 		}
 
-		"ReadyUp 20"
+		"readyup_20"
 		{
 			"1"
 			{
-				"name"			"ReadyUp Symbols"
+				"name"			"readyup_symbols"
 				"tall"			"20"
 				"additive"  	"0"
 				"antialias"		"1"
 			}
 		}
 		
-		"ReadyUp 24"
+		"readyup_24"
 		{
 			"1"
 			{
-				"name"			"ReadyUp Symbols"
+				"name"			"readyup_symbols"
 				"tall"			"24"
 				"additive"  	"0"
 				"antialias"		"1"
 			}
 		}
 
-		"ReadyUp 28"
+		"readyup_28"
 		{
 			"1"
 			{
-				"name"			"ReadyUp Symbols"
+				"name"			"readyup_symbols"
 				"tall"			"28"
 				"additive"  	"0"
 				"antialias"		"1"
 			}
 		}
 
-		"ReadyUp 32"
+		"readyup_32"
 		{
 			"1"
 			{
-				"name"			"ReadyUp Symbols"
+				"name"			"readyup_symbols"
 				"tall"			"32"
 				"additive"  	"0"
 				"antialias"		"1"
@@ -744,26 +744,26 @@ Scheme
 	{
 		"30"
 		{
-			"font" "resource/scheme/fonts/Hypnotize Symbols.otf"
-			"name" "Hypnotize Symbols"
+			"font" "resource/scheme/fonts/hypnotize_symbols.otf"
+			"name" "hypnotize_symbols"
 		}
 		
 		"31"
 		{
-			"font" "resource/scheme/fonts/TF2 Class Icons.otf"
+			"font" "resource/scheme/fonts/tf2_class_icons.otf"
 			"name" "TF2 Class Icons"
 		}
 		
 		"32"
 		{
-			"font" "resource/scheme/fonts/Blocks.ttf"
-			"name" "Blocks"
+			"font" "resource/scheme/fonts/blocks.ttf"
+			"name" "blocks"
 		}
 
 		"33"
 		{
-			"font" "resource/scheme/fonts/ReadyUp Symbols.otf"
-			"name" "ReadyUp Symbols"
+			"font" "resource/scheme/fonts/readyup_symbols.otf"
+			"name" "readyup_symbols"
 		}
 		
 		"34"

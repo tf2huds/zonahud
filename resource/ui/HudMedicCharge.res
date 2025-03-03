@@ -19,7 +19,7 @@
 		"dulltext"									"0"
 		"brighttext"								"0"
 		"font"										"m0refont46"
-		"font_minmode"								"HANDGOTN32"
+		"font_minmode"								"handgotn32"
 		"fgcolor"   								"Ubercharge"
 		"proportionaltoparent"						"1"
 	}

@@ -26,7 +26,7 @@
 		"ypos_minmode"								"c70"
 		"zpos"										"0"
 		"wide"										"2"
-		"tall"										"150"
+		"tall"										"48"
 		"visible"									"0"
 		"enabled"									"1"
 	}
