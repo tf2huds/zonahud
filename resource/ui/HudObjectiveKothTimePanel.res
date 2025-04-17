@@ -63,6 +63,7 @@
 			"bgcolor_override"						"0 0 0 180"
 			"PaintBackgroundType"					"2"
 		}
+	}
 
 	"ActiveTimerBG"
 	{

@@ -4,8 +4,8 @@
 //Fonts
 #base "../resource/scheme/Fonts.res"
 #base "../resource/scheme/Symbols.res"
-#base "../customizations/health_ammo_size.res"
 #base "../customizations/font_thickness.res"
+#base "../customizations/health_ammo_size.res"
 
 //Borders
 #base "../resource/scheme/Borders.res"

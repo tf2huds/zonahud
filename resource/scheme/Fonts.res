@@ -588,7 +588,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Blocks"
+				"name"										"blocks"
 				"tall"										"64"
 				"additive"									"0"
 				"antialias" 								"0"
@@ -865,150 +865,150 @@ Scheme
 			}
 		}	
 
-		HANDGOTN52
+		handgotn52
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
+				"name"										"handel gothic bt"
 				"tall"										"52"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
 		}
-		HANDGOTN40
+		handgotn40
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
+				"name"										"handel gothic bt"
 				"tall"										"40"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
 		}
-		HANDGOTN32
+		handgotn32
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
+				"name"										"handel gothic bt"
 				"tall"										"32"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
 		}
 
-		HelveticaNeueLT18Outline
+		helveticaneuelt18Outline
 		{
 			"1"
 			{
-				"name"										"HelveticaNeueLT-BoldExt"
+				"name"										"helveticaneuelt-boldext"
 				"tall"										"18"
 				"additive"									"0"
 				"antialias" 								"1"
 				"outline"									"1"
 			}
 		}
-		HelveticaNeueLT14Outline
+		helveticaneuelt14Outline
 		{
 			"1"
 			{
-				"name"										"HelveticaNeueLT-BoldExt"
+				"name"										"helveticaneuelt-boldext"
 				"tall"										"14"
 				"additive"									"0"
 				"antialias" 								"1"
 				"outline"									"1"
 			}
 		}
-		HANDGOTN18
+		handgotn18
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
+				"name"										"handel gothic bt"
 				"tall"										"18"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
 		}
-		HANDGOTN16
+		handgotn16
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
+				"name"										"handel gothic bt"
 				"tall"										"16"
 				"additive"									"0"
 				"antialias" 								"1"
 				"dropshadow"								"0"
 			}
 		}
-		HANDGOTN12
+		handgotn12
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
+				"name"										"handel gothic bt"
 				"tall"										"12"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
 		}
-		HANDGOTN16Shadow
+		handgotn16Shadow
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
+				"name"										"handel gothic bt"
 				"tall"										"16"
 				"additive"									"0"
 				"antialias" 								"1"
 				"dropshadow"								"1"
 			}
 		}
-		HANDGOTN14Shadow
+		handgotn14Shadow
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
+				"name"										"handel gothic bt"
 				"tall"										"14"
 				"additive"									"0"
 				"antialias" 								"1"
 				"dropshadow"								"1"
 			}
 		}
-		HANDGOTN18Shadow
+		handgotn18Shadow
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
+				"name"										"handel gothic bt"
 				"tall"										"18"
 				"additive"									"0"
 				"antialias" 								"1"
 				"dropshadow"								"1"
 			}
 		}
-		HANDGOTN24Shadow
+		handgotn24Shadow
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
+				"name"										"handel gothic bt"
 				"tall"										"24"
 				"additive"									"0"
 				"antialias" 								"1"
 				"dropshadow"								"1"
 			}
 		}
-		HelveticaNeueLT18Outline
+		helveticaneuelt18Outline
 		{
 			"1"
 			{
-				"name"										"HelveticaNeueLT-BoldExt"
+				"name"										"helveticaneuelt-boldext"
 				"tall"										"18"
 				"additive"									"0"
 				"antialias" 								"1"
 				"outline"									"1"
 			}
 		}
-		HelveticaNeueLT14Outline
+		helveticaneuelt14Outline
 		{
 			"1"
 			{
-				"name"										"HelveticaNeueLT-BoldExt"
+				"name"										"helveticaneuelt-boldext"
 				"tall"										"14"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1019,7 +1019,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
+				"name"										"handel gothic bt"
 				"tall"										"36"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1029,7 +1029,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
+				"name"										"handel gothic bt"
 				"tall"										"46"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1040,7 +1040,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
+				"name"										"handel gothic bt"
 				"tall"										"46"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1050,7 +1050,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
+				"name"										"handel gothic bt"
 				"tall"										"46"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1060,7 +1060,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
+				"name"										"handel gothic bt"
 				"tall"										"46"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1071,7 +1071,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
+				"name"										"handel gothic bt"
 				"tall"										"24"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1081,7 +1081,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
+				"name"										"handel gothic bt"
 				"tall"										"24"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1092,7 +1092,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
+				"name"										"handel gothic bt"
 				"tall"										"20"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1103,7 +1103,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
+				"name"										"handel gothic bt"
 				"tall"										"11"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1113,7 +1113,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
+				"name"										"handel gothic bt"
 				"tall"										"16"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1123,7 +1123,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
+				"name"										"handel gothic bt"
 				"tall"										"16"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1134,7 +1134,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
+				"name"										"handel gothic bt"
 				"tall"										"18"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1145,7 +1145,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
+				"name"										"handel gothic bt"
 				"tall"										"18"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1156,7 +1156,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
+				"name"										"handel gothic bt"
 				"tall"										"11"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1167,7 +1167,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
+				"name"										"handel gothic bt"
 				"tall"										"15"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1178,7 +1178,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
+				"name"										"handel gothic bt"
 				"tall"										"14"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1189,7 +1189,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
+				"name"										"handel gothic bt"
 				"tall"										"14"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1205,7 +1205,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface Numbers"
+				"name"										"surface_numbers"
 				"tall"										"18"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1217,7 +1217,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface Numbers"
+				"name"										"surface_numbers"
 				"tall"										"20"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1229,7 +1229,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface Numbers"
+				"name"										"surface_numbers"
 				"tall"										"22"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1241,7 +1241,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface Numbers"
+				"name"										"surface_numbers"
 				"tall"										"24"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1253,7 +1253,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface Numbers"
+				"name"										"surface_numbers"
 				"tall"										"24"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1265,7 +1265,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface Numbers"
+				"name"										"surface_numbers"
 				"tall"										"28"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1277,7 +1277,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface Numbers"
+				"name"										"surface_numbers"
 				"tall"										"30"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1301,7 +1301,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT Numbers"
+				"name"										"handel gothic bt numbers"
 				"tall"										"18"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1313,7 +1313,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT Numbers"
+				"name"										"handel gothic bt numbers"
 				"tall"										"20"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1325,7 +1325,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT Numbers"
+				"name"										"handel gothic bt numbers"
 				"tall"										"22"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1337,7 +1337,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT Numbers"
+				"name"										"handel gothic bt numbers"
 				"tall"										"24"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1349,7 +1349,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT Numbers"
+				"name"										"handel gothic bt numbers"
 				"tall"										"26"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1361,7 +1361,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT Numbers"
+				"name"										"handel gothic bt numbers"
 				"tall"										"28"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1373,7 +1373,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT Numbers"
+				"name"										"handel gothic bt numbers"
 				"tall"										"30"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -1578,7 +1578,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Product Sans Bold"
+				"name"										"product sans bold"
 				"tall"										"20"
 				"weight"									"500"
 				"additive"									"1"
@@ -1671,7 +1671,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"product sans"
 				"tall"		"10"
 				"antialias" "1"
 				"additive"	"0"
@@ -1682,7 +1682,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"product sans"
 				"tall"		"10"
 				"antialias" "1"
 				"blur" 		"1"
@@ -1694,7 +1694,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"product sans"
 				"tall"		"13"
 				"antialias" "1"
 				"additive"	"0"
@@ -1705,7 +1705,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"product sans"
 				"tall"		"14"
 				"antialias" "1"
 				"additive"	"0"
@@ -1716,7 +1716,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"product sans"
 				"tall"		"16"
 				"antialias" "1"
 				"additive"	"0"
@@ -1727,7 +1727,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"product sans"
 				"tall"		"18"
 				"antialias" "1"
 				"additive"	"0"
@@ -1738,7 +1738,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"product sans"
 				"tall"		"20"
 				"antialias" "1"
 				"additive"	"0"
@@ -1749,7 +1749,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"product sans"
 				"tall"		"22"
 				"antialias" "1"
 				"additive"	"0"
@@ -1760,7 +1760,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"				"Product Sans"
+				"name"				"product sans"
 				"tall"				"22"
 				"additive"			"0"
 				"antialias" 		"1"
@@ -1771,7 +1771,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"22"
 				"additive"			"0"
 				"antialias" 		"1"
@@ -1782,7 +1782,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"product sans"
 				"tall"		"24"
 				"antialias" "1"
 				"additive"	"0"
@@ -1793,7 +1793,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"product sans"
 				"tall"		"26"
 				"antialias" "1"
 				"additive"	"0"
@@ -1804,7 +1804,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Product Sans"
+				"name"			"product sans"
 				"tall"			"26"
 				"antialias" 	"1"
 				"dropshadow"	"1"
@@ -1815,7 +1815,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"product sans"
 				"tall"		"28"
 				"antialias" "1"
 				"additive"	"0"
@@ -1826,7 +1826,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"product sans"
 				"tall"		"30"
 				"antialias" "1"
 				"additive"	"0"
@@ -1837,7 +1837,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"8"
 				"antialias" "1"
 				"additive"	"0"
@@ -1848,7 +1848,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"8"
 				"antialias" "1"
 				"blur"		"1"
@@ -1860,7 +1860,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"8"
 				"antialias" "1"
 				"blur"		"2"
@@ -1872,7 +1872,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"9"
 				"antialias" "1"
 				"additive"	"0"
@@ -1884,7 +1884,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"10"
 				"antialias" "1"
 				"additive"	"0"
@@ -1896,7 +1896,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"10"
 				"antialias" "1"
 				"blur" 		"1"
@@ -1909,7 +1909,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"11"
 				"antialias" "1"
 				"additive"	"0"
@@ -1921,7 +1921,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"12"
 				"antialias" "1"
 				"additive"	"0"
@@ -1932,7 +1932,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"13"
 				"antialias" "1"
 				"additive"	"0"
@@ -1944,7 +1944,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"14"
 				"antialias" "1"
 				"additive"	"0"
@@ -1956,7 +1956,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"15"
 				"antialias" "1"
 				"additive"	"0"
@@ -1967,7 +1967,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"16"
 				"antialias" "1"
 				"additive"	"0"
@@ -1979,7 +1979,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"16"
 				"antialias" "1"
 				"additive"	"0"
@@ -1991,7 +1991,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"18"
 				"antialias" "1"
 				"additive"	"0"
@@ -2002,7 +2002,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"18"
 				"antialias" "1"
 				"additive"	"0"
@@ -2014,7 +2014,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"20"
 				"antialias" "1"
 				"additive"	"0"
@@ -2025,7 +2025,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"20"
 				"antialias" "1"
 				"additive"	"0"
@@ -2037,7 +2037,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"22"
 				"antialias" "1"
 				"additive"	"0"
@@ -2048,7 +2048,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"22"
 				"antialias" "1"
 				"additive"	"0"
@@ -2060,7 +2060,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"24"
 				"antialias" "1"
 				"additive"	"0"
@@ -2072,7 +2072,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"24"
 				"antialias" "1"
 				"additive"	"0"
@@ -2083,7 +2083,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"26"
 				"antialias" "1"
 				"additive"	"0"
@@ -2094,7 +2094,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"26"
 				"antialias" "1"
 				"additive"	"0"
@@ -2106,7 +2106,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"28"
 				"antialias" "1"
 				"additive"	"0"
@@ -2117,7 +2117,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"32"
 				"antialias" "1"
 				"additive"	"0"
@@ -2128,7 +2128,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"32"
 				"antialias" "1"
 				"blur"		"1"
@@ -2139,7 +2139,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"34"
 				"antialias" "1"
 				"additive"	"0"
@@ -2150,7 +2150,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"34"
 				"antialias" "1"
 				"blur"		"1"
@@ -2161,7 +2161,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"36"
 				"antialias" "1"
 				"additive"	"0"
@@ -2172,7 +2172,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"36"
 				"antialias" "1"
 				"blur"		"1"
@@ -2183,7 +2183,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"38"
 				"antialias" "1"
 				"additive"	"0"
@@ -2194,7 +2194,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"38"
 				"antialias" "1"
 				"blur"		"1"
@@ -2205,7 +2205,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"40"
 				"antialias" "1"
 				"additive"	"0"
@@ -2216,7 +2216,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"40"
 				"antialias" "1"
 				"blur"		"1"
@@ -2227,7 +2227,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"42"
 				"antialias" "1"
 				"additive"	"0"
@@ -2238,7 +2238,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"42"
 				"antialias" "1"
 				"blur"		"1"
@@ -2249,7 +2249,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"44"
 				"antialias" "1"
 				"additive"	"0"
@@ -2260,7 +2260,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"44"
 				"antialias" "1"
 				"blur"		"1"
@@ -2271,7 +2271,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"46"
 				"antialias" "1"
 				"additive"	"0"
@@ -2282,7 +2282,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"46"
 				"antialias" "1"
 				"blur"		"1"
@@ -2293,7 +2293,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"48"
 				"antialias" "1"
 				"additive"	"0"
@@ -2304,7 +2304,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"48"
 				"antialias" "1"
 				"blur"		"1"
@@ -2315,7 +2315,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"50"
 				"antialias" "1"
 				"additive"	"0"
@@ -2326,7 +2326,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"50"
 				"antialias" "1"
 				"blur"		"1"
@@ -2337,7 +2337,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"52"
 				"antialias" "1"
 				"additive"	"0"
@@ -2348,7 +2348,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"52"
 				"antialias" "1"
 				"blur"		"1"
@@ -2359,7 +2359,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"54"
 				"antialias" "1"
 				"additive"	"0"
@@ -2370,7 +2370,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"54"
 				"antialias" "1"
 				"blur"		"1"
@@ -2381,7 +2381,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"56"
 				"antialias" "1"
 				"additive"	"0"
@@ -2392,7 +2392,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"56"
 				"antialias" "1"
 				"blur"		"1"
@@ -2403,7 +2403,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"58"
 				"antialias" "1"
 				"additive"	"0"
@@ -2414,7 +2414,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"58"
 				"antialias" "1"
 				"blur"		"1"
@@ -2425,7 +2425,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"60"
 				"antialias" "1"
 				"additive"	"0"
@@ -2436,7 +2436,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"60"
 				"antialias" "1"
 				"blur"		"1"
@@ -2447,7 +2447,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"57"
 				"antialias" "1"
 				"additive"	"0"
@@ -2458,7 +2458,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"62"
 				"antialias" "1"
 				"blur"		"1"
@@ -2469,7 +2469,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"64"
 				"antialias" "1"
 				"additive"	"0"
@@ -2480,7 +2480,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"64"
 				"antialias" "1"
 				"blur"		"1"
@@ -2491,7 +2491,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"66"
 				"antialias" "1"
 				"additive"	"0"
@@ -2502,7 +2502,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"66"
 				"antialias" "1"
 				"blur"		"1"
@@ -2513,7 +2513,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"68"
 				"antialias" "1"
 				"additive"	"0"
@@ -2524,7 +2524,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"product sans bold"
 				"tall"		"68"
 				"antialias" "1"
 				"blur"		"1"
@@ -2535,7 +2535,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"product sans"
 				"tall"		"8"
 				"antialias" "1"
 				"additive"	"0"
@@ -2546,7 +2546,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"product sans"
 				"tall"		"6"
 				"antialias" "1"
 				"additive"	"0"
@@ -2557,7 +2557,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"product sans"
 				"tall"		"7"
 				"antialias" "1"
 				"additive"	"0"
@@ -2568,7 +2568,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"product sans"
 				"tall"		"8"
 				"antialias" "1"
 				"additive"	"0"
@@ -2579,7 +2579,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"product sans"
 				"tall"		"8"
 				"antialias" "1"
 				"additive"	"0"
@@ -2590,7 +2590,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"product sans"
 				"tall"		"9"
 				"antialias" "1"
 				"additive"	"0"
@@ -2601,7 +2601,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"product sans"
 				"tall"		"10"
 				"antialias" "1"
 				"additive"	"0"
@@ -2612,7 +2612,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"product sans"
 				"tall"		"11"
 				"antialias" "1"
 				"additive"	"0"
@@ -3172,7 +3172,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Product Sans Bold"
+				"name"										"product sans bold"
 				"tall"										"24"
 				"weight"									"500"
 				"range"										"0x0000 0x017F"
@@ -3184,7 +3184,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Product Sans Bold"
+				"name"										"product sans bold"
 				"tall"										"24"
 				"weight"									"500"
 				"italic"									"1"
@@ -3197,7 +3197,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Product Sans Bold"
+				"name"										"product sans bold"
 				"tall"										"28"
 				"weight"									"500"
 				"range"										"0x0000 0x017F"
@@ -3209,7 +3209,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Product Sans Bold"
+				"name"										"product sans bold"
 				"tall"										"24"
 				"weight"									"500"
 				"italic"									"1"
@@ -3222,7 +3222,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Product Sans Bold"
+				"name"										"product sans bold"
 				"tall"										"16"
 				"weight"									"500"
 				"range"										"0x0000 0x017F"
@@ -4853,18 +4853,18 @@ Scheme
 		}
 		"9"
 		{
-			"font"				"resource/scheme/fonts/Avenir Heavy.otf"
+			"font"				"resource/scheme/fonts/avenir_heavy.otf"
 			"name"				"AvenirLTStd-Heavy"
 		}
 		"10"
 		{
-			"font"				"resource/scheme/fonts/Avenir Black.ttf"
+			"font"				"resource/scheme/fonts/avenir_black.ttf"
 			"name"				"AvenirLTStd-Black"
 		}
 		"11"
 		{
-			"font"				"resource/scheme/fonts/HANDGOTN.ttf"
-			"name"				"Handel Gothic BT"
+			"font"				"resource/scheme/fonts/handgotn.ttf"
+			"name"				"handel gothic bt"
 		}
 		"12"
 		{
@@ -4873,38 +4873,38 @@ Scheme
 		}
 		"13"
 		{
-			"font"				"resource/scheme/fonts/HelveticaNeueLT-BoldExt.otf"
-			"name"				"HelveticaNeueLT-BoldExt"
+			"font"				"resource/scheme/fonts/helveticaneuelt-boldext.otf"
+			"name"				"helveticaneuelt-boldext"
 		}
 		"14"
 		{
 			"font"				"resource/scheme/fonts/Blocks.ttf"
-			"name"				"Blocks"
+			"name"				"blocks"
 		}
 		"15"
 		{
-			"font"				"resource/scheme/fonts/Blocks-Blocks.ttf"
-			"name"				"Blocks-Blocks"
+			"font"				"resource/scheme/fonts/blocks-blocks.ttf"
+			"name"				"blocks-blocks"
 		}
 		"16"
 		{
-			"font"				 	"resource/scheme/fonts/Product Sans.ttf"
-			"name" 					"Product Sans"
+			"font"				 	"resource/scheme/fonts/product_sans.ttf"
+			"name" 					"product sans"
 		}
 		"17"
 		{
-			"font" 					"resource/scheme/fonts/ProductSansBold.ttf"
-			"name" 					"Product Sans Bold"
+			"font" 					"resource/scheme/fonts/productsansbold.ttf"
+			"name" 					"product sans bold"
 		}
 		"18"
 		{
-			"font" 					"resource/scheme/fonts/Handel_Gothic_BT_Numbers.ttf"
-			"name" 					"Handel Gothic BT Numbers"
+			"font" 					"resource/scheme/fonts/handel_gothic_bt_numbers.ttf"
+			"name" 					"handel gothic bt numbers"
 		}
 		"19"
 		{
 			"font" 					"resource/scheme/fonts/surface_numbers.otf"
-			"name" 					"Surface Numbers"
+			"name" 					"surface_numbers"
 		}
 		"21"
 		{

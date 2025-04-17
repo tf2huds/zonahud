@@ -230,7 +230,7 @@
 	{	
 		"ControlName"								"Label"
 		"fieldName"									"TournamentBLUEStateLabel"
-		"font"										"ReadyUp 24"
+		"font"										"readyup_24"
 		"fgcolor_override" 							"White"
 		"xpos"										"c-18"
 		"ypos"										"-6"
@@ -265,7 +265,7 @@
 	{	
 		"ControlName"								"Label"
 		"fieldName"									"TournamentBLUEStateLabelShadow"
-		"font"										"ReadyUp 24"
+		"font"										"readyup_24"
 		"fgcolor_override" 							"0 0 0 125"
 		"xpos"										"-1"
 		"ypos"										"-1"
@@ -299,7 +299,7 @@
 	{	
 		"ControlName"								"Label"
 		"fieldName"									"TournamentREDStateLabel"
-		"font"										"ReadyUp 24"
+		"font"										"readyup_24"
 		"fgcolor_override" 							"White"
 		"xpos"										"c5"
 		"ypos"										"-6"
@@ -334,7 +334,7 @@
 	{	
 		"ControlName"								"Label"
 		"fieldName"									"TournamentREDStateLabelShadow"
-		"font"										"ReadyUp 24"
+		"font"										"readyup_24"
 		"fgcolor_override" 							"0 0 0 125"
 		"xpos"										"1"
 		"ypos"										"-1"
